@@ -5,3 +5,8 @@ pyinstaller --icon=test.ico --onefile bankApplication.py
 
 
 교재 주소 : https://github.com/wikibook/python-ds-handbook
+
+
+https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/concat_1.csv
+https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/concat_2.csv
+https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/concat_3.csv
