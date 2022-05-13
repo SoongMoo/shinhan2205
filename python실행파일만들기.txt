@@ -19,3 +19,6 @@ https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/scientists.csv
 https://pandas.pydata.org/docs/reference/api/pandas.Period.strftime.html
 
 https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD
+
+
+http://www.kma.go.kr/weather/forecast/mid-term-rss3.jsp
