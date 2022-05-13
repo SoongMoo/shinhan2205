@@ -12,3 +12,6 @@ https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/concat_2.csv
 https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/concat_3.csv
 
 https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/gapminder.tsv
+
+
+https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/scientists.csv
