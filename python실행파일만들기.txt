@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/gapminder.tsv
 
 
 https://raw.githubusercontent.com/SoongMoo/soldesk2110/main/data/scientists.csv
+
+https://pandas.pydata.org/docs/reference/api/pandas.Period.strftime.html
